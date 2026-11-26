@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Token Radar: pre-token protocols ranked by implied launch value</title>
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">
+    <h1>Token Radar</h1>
+    <p class="tag">Pre-token protocols, ranked by what their token would be worth if it launched today.</p>
+  </div>
+  <div class="meta" id="meta"></div>
+</header>
+<nav class="tabs" aria-label="Views">
+  <button type="button" data-tab="board" class="tab active" aria-current="page">Board</button>
+  <button type="button" data-tab="live" class="tab">Live tokens</button>
+  <button type="button" data-tab="model" class="tab">Model &amp; tests</button>
+</nav>
+<section class="filters" id="filters" aria-label="Filters">
+  <label>Search <input id="q" type="search" placeholder="Protocol or slug" autocomplete="off"></label>
+  <label>Category <select id="cat"><option value="">All categories</option></select></label>
+  <label>Chain <select id="chain"><option value="">All chains</option></select></label>
+  <label>Sort
+    <select id="sort">
+      <option value="rank">Rank (implied value)</option>
+      <option value="implied">Implied value</option>
+      <option value="tvl">TVL</option>
+      <option value="growth">7-day growth</option>
+      <option value="age">Age</option>
+      <option value="verdict">Farm $/hour</option>
+    </select>
+  </label>
+  <p class="count" id="count" aria-live="polite"></p>
+</section>
+<main id="board" tabindex="-1">
+  <p class="loading">Loading the board…</p>
+</main>
+<section id="live" hidden>
+  <p class="note">These protocols already trade. The board shows the market's own value for them — never a model's guess — and they are never mixed into the ranked board.</p>
+  <div id="live-list"></div>
+</section>
+<section id="model" hidden>
+  <div id="model-body"></div>
+</section>
+<aside id="drawer" class="drawer" hidden aria-label="Protocol detail"></aside>
+<footer class="foot">
+  <p>Implied values are this radar's own claim, fitted from the sealed snapshot's launched protocols — never make.fun's, and never a promise that a token will launch. Farm economics assume 5% of implied value reaches an airdrop pool shared by about 25,000 qualifying wallets. Snapshot: DefiLlama protocols, 14 November 2026.</p>
+</footer>
+<noscript><p class="note">This page needs JavaScript: the board is rendered from the data file beside it.</p></noscript>
+<script src="../data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
