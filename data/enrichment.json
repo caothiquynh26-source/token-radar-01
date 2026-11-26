@@ -1,0 +1,786 @@
+{
+ "veda": {
+  "description": "Veda is the leading DeFi vault platform, enabling crypto applications, asset issuers, and protocols to build consumer-grade cross chain yield products. Veda's technology is powering many of DeFi's largest vault products, including ether.fi Liquid, Lombard DeFi Vault, and Mantle cmETH",
+  "social": "veda_labs"
+ },
+ "opentrade": {
+  "description": "Fintechs around the world use OpenTrade to power safe, compliant stablecoin yield products.",
+  "social": "opentrade_io"
+ },
+ "plume-vaults": {
+  "description": "Plume Vaults is Plume's flagship real-world asset protocol, built to enable onchain access to real world yield through structured vaults",
+  "social": "plumenetwork"
+ },
+ "onre": {
+  "description": "Connecting on-chain capital to real-world reinsurance risk — unlocking stable, uncorrelated returns that are liquid, composable and accessible for the first time",
+  "social": "onrefinance"
+ },
+ "usdd": {
+  "description": "Decentralized USD (USDD) is a fully decentralized stablecoin pegged to the US dollar through crypto reserves",
+  "social": "usddio"
+ },
+ "steakhouse-financial": {
+  "description": "We build transparent, efficient, and accessible financial primitives to power the next generation of capital markets on public blockchains",
+  "social": "SteakhouseFi"
+ },
+ "upshift": {
+  "description": "Upshift opens access to transparent yields backed by secure risk controls. Supply, stake and access cross-chain yields.",
+  "social": "upshift_fi"
+ },
+ "gauntlet": {
+  "description": "Our vaults provide risk-adjusted DeFi yields for institutional capital at scale. These strategies are optimized by our automated risk platform— designed by the most vigilant, quantitative minds in crypto.",
+  "social": "gauntlet_xyz"
+ },
+ "nonce-capital": {
+  "description": "DeFi risk curator that manages asset allocation and strategies for third-party vaults, including ether.fi Liquid vaults and Midas tokenized funds.",
+  "social": "noncecap"
+ },
+ "shift-defi": {
+  "description": "A non-custodial DeFi platform bringing an institutional approach to portfolio construction, risk management, and on-chain yield",
+  "social": "Shift_DeFi"
+ },
+ "bittensor-dtao": {
+  "description": "Bittensor's native dTAO AMM pools, which price each subnet's alpha token against TAO and hold the network's subnet liquidity",
+  "social": "opentensor"
+ },
+ "suibridge": {
+  "description": "Sui Bridge is a cutting-edge native bridge on Sui, designed to enhance interoperability between Sui and Ethereum. It enables users to securely and efficiently transfer native and wrapped ETH to and from Sui. The bridge leverages the unique capabilities of the Sui network to offer fast transaction speeds, lower transaction costs, and a decentralized architecture.",
+  "social": "SuiNetwork"
+ },
+ "ink-bridge": {
+  "description": "Bridge for Ink chain by Kraken",
+  "social": "inkonchain"
+ },
+ "symbiotic": {
+  "description": "Symbiotic powers collateral markets, where capital is committed to financial obligations and enforced by code. Capital remains productive while committed, removing the tradeoff between being locked and earning. It backs products across credit, insurance, stablecoins, and RWA. Symbiotic powers 80+ vaults, 74,000+ active stakers, and 111 operators, with Chainlink, Nexus Mutual, and Cap Labs live in ",
+  "social": "symbioticfi"
+ },
+ "polygon-zkevm-bridge": {
+  "description": "Transfer assets between Polygon zkEVM and Ethereum",
+  "social": "0xPolygon"
+ },
+ "pulsechain-bridge": {
+  "description": "Bridge between PulseChain and Ethereum",
+  "social": "PulsechainCom"
+ },
+ "r25": {
+  "description": "R25 builds RWA vault infrastructure that enables automated and curated on-chain yield strategies",
+  "social": "R25Official"
+ },
+ "lofty": {
+  "description": "Fractionalized real estate on Algorand.",
+  "social": "lofty_ai"
+ },
+ "tori-finance": {
+  "description": "Tori Finance is a synthetic dollar protocol where trUSD is backed by delta-neutral trading positions and can be staked into strUSD to earn yield from those market-neutral strategies.",
+  "social": "tori_finance"
+ },
+ "hive-protocol": {
+  "description": "Stake BTC, safeguard B², and receive $B2 Tokens",
+  "social": "BsquaredNetwork"
+ },
+ "rockawayx": {
+  "description": "On-chain asset manager. Risk curator on Morpho and other DeFi lending protocols. Market-neutral yield strategies for institutional and HNWI clients - stablecoins, ETH, BTC, SOL",
+  "social": "Rockaway_X"
+ },
+ "scroll-bridge": {
+  "description": "Transfer assets between Scroll and Ethereum",
+  "social": "Scroll_ZKP"
+ },
+ "hyperithm": {
+  "description": "Hyperithm is a premier digital asset manager based in Tokyo and Seoul, active in quant trading and venture investments.",
+  "social": "hyperithm"
+ },
+ "k3-capital": {
+  "description": "Leading institutional asset and risk management in decentralized finance",
+  "social": "k3_capital"
+ },
+ "axis": {
+  "description": "Quantitative yield protocol that issues USDx, a synthetic dollar backed by a cross-venue arbitrage engine. sUSDx is the staked yield-bearing vault.",
+  "social": "AxisFDN"
+ },
+ "saturn": {
+  "description": "Saturn is a dual-token Bitcoin-backed credit protocol where USDat is a stablecoin backed by tokenized treasuries and sUSDat is a yield-bearing version backed by digital credit exposure.",
+  "social": "saturn_credit"
+ },
+ "sx-rollup-bridge": {
+  "description": "Bridge between Ethereum and SX Network",
+  "social": "SX_Network"
+ },
+ "galaxy-curation": {
+  "description": "Galaxy is a global leader in digital assets and data center infrastructure, delivering solutions that accelerate progress in finance and artificial intelligence.",
+  "social": "galaxyhq"
+ },
+ "lightning-network": {
+  "description": "Scalable, Instant Bitcoin/Blockchain Transactions"
+ },
+ "liminal-basis": {
+  "description": "Liminal is designed to capture yield sources offered by Hyperliquid and distribute them through fully automated strategies across all ecosystems",
+  "social": "liminalmoney"
+ },
+ "clearstar": {
+  "description": "Building onchain infra and strategies.",
+  "social": "ClearstarLabs"
+ },
+ "lagoon": {
+  "description": "LAGOON provides open, general-purpose, secure vault infrastructure to build and scale on-chain yield products. Powered by the ERC-7540 standard, curators manage deposits and withdrawals asynchronously, while users can join any public vault to start earning on their assets.",
+  "social": "lagoon_finance"
+ },
+ "nuva": {
+  "description": "NUVA is a real-world asset vault platform offering tokenized yield products including nvYLDS (YLDS-backed vault on Provenance) and nvPRIME (private credit vault on Ethereum).",
+  "social": "nuvafinance"
+ },
+ "valos": {
+  "description": "Institutional-Grade Digital Asset Yield Solutions.",
+  "social": "Valos_io"
+ },
+ "aegis-yusd": {
+  "description": "Aegis performs funding rate arbitrage through delta-neutral trades in spot and perpetual markets, effectively generating profits from funding fees. These fees, disbursed three times daily, align perpetual contract and spot prices, ultimately rewarding YUSD holders.",
+  "social": "aegis_im"
+ },
+ "txflow-bridge": {
+  "description": "TxFlow is an open Layer 1 with multi-application ecosystem around TIP Liquidity Standards — where every Channel shares on-chain liquidity, settlement, and market data without bridging",
+  "social": "TxFlow_L1"
+ },
+ "infinifi": {
+  "description": "infiniFi is building the future of decentralized finance by recreating modern banking infrastructure—on-chain. By merging liquid and illiquid assets into a capital-efficient system with transparent fractional reserves, infiniFi delivers superior yields to depositors without increasing systemic risk. Founded in 2024, infiniFi is backed by top Web3 investors and is integrated with major protocols li",
+  "social": "infiniFi"
+ },
+ "armitage-by-wintermute": {
+  "description": "Armitage is Wintermute's onchain vault curation arm, applying institutional-grade risk management and trading infrastructure to DeFi yield.",
+  "social": "wintermute_t"
+ },
+ "manta-cedefi": {
+  "description": "Manta CeDeFi: offering more opportunities for Manta users through a diversified approach to earning yield through CeFi and DeFi.",
+  "social": "MantaNetwork"
+ },
+ "ember": {
+  "description": "Ember originates and issues tokenized investment products, bringing funds, strategies, and real-world assets onchain.",
+  "social": "EmberProtocol"
+ },
+ "drakewell": {
+  "description": "Structure makes yield reachable. Issuer of USDdw and SPYdw",
+  "social": "drakewell_fi"
+ },
+ "noon": {
+  "description": "Noon is a yield optimization protocol that generates delta-neutral returns, maximizes governance token utility, and ensures fair, sustainable value distribution",
+  "social": "noon_capital"
+ },
+ "b14g": {
+  "description": "b14g is a modular dual-staking layer for Bitcoin that lets protocols secure their networks with both BTC and their native token—reducing sell pressure, increasing token utility, and improving sustainability.",
+  "social": "b14g_network"
+ },
+ "obeliskbtc": {
+  "description": "Obelisk is a Bitcoin asset management protocol enhancing value and liquidity through restaking and diverse yield strategies.",
+  "social": "Oblisk_NodeDAO"
+ },
+ "noble": {
+  "description": "Native stablecoin and RWA issuance for the Cosmos ecosystem",
+  "social": "noble_xyz"
+ },
+ "exponent-yield-exchange": {
+  "description": "Exponent is a yield exchange protocol on Solana for fixed-rate and leveraged yield farming",
+  "social": "ExponentFinance"
+ },
+ "doppler-finance": {
+  "description": "First XRPfi protocol on XRPL",
+  "social": "doppler_fi"
+ },
+ "theo-network-thbill": {
+  "description": "thBILL is a yield-bearing basket of tokenized U.S. Treasury bills from regulated issuers, designed as a stable core asset within the Theo ecosystem.",
+  "social": "Theo_Network"
+ },
+ "pacifica-bridge": {
+  "description": "Pacifica's Solana deposit and withdrawal bridge holds the assets backing user balances on the exchange",
+  "social": "pacifica_fi"
+ },
+ "august-digital": {
+  "description": "August Digital provides institutional on-chain infrastructure and curates non-custodial USDC lending vaults on Morpho.",
+  "social": "august_digital"
+ },
+ "reti-pooling": {
+  "description": "The Réti Pooling protocol is a decentralized, non-custodial solution that enables users to pool their Algorand stake, allowing anyone to trustlessly stake with Validators and earn rewards",
+  "social": "txnlab"
+ },
+ "keyrock": {
+  "description": "Keyrock is a global crypto investment group and risk curator managing on-chain yield vaults through Morpho.",
+  "social": "keyrock"
+ },
+ "gami-labs": {
+  "description": "Gami provides on-chain asset management infrastructure with active curation & dynamic risk management.",
+  "social": "GamiLabs"
+ },
+ "yuzu-money": {
+  "description": "An overcollateralized stablecoin backed by curated on-chain strategies designed to offer some of the highest yields in DeFi. Users can stake yzUSD to receive the yield-bearing syzUSD. Depositors in yzPP accept first-loss risk on the underlying strategies in exchange for a higher target yield, which is partially funded by a Reserve Fund.",
+  "social": "YuzuMoneyX"
+ },
+ "wrapped": {
+  "description": "Your favorite assets on every blockchain. wrapped.com is a cross-chain institutional bridge. Designed for high-performance and speed.",
+  "social": "WrappedFi"
+ },
+ "arrakis-modular": {
+  "description": "Arrakis Modular represents the next evolution of the Arrakis liquidity management smart contract framework, aiming to overcome the limitations of previous versions (V1 and V2). Arrakis Modular introduces a universal Meta Vault standard. This modular framework allows Arrakis to create entirely different two-sided LP Vault integrations, which all reuse the same Meta Vault infrastructure and interfac",
+  "social": "ArrakisFinance"
+ },
+ "makina": {
+  "description": "Makina is DeFi execution infrastructure for onchain asset managers. Operators deploy strategies as Machines, vaults that allocate capital across protocols and chains through Calibers, with built-in accounting, risk controls and cross-chain execution.",
+  "social": "makinafi"
+ },
+ "wtao": {
+  "description": "Bridge that locks native TAO on Bittensor and mints an ERC-20 representation (wTAO) on Ethereum 1:1.",
+  "social": "opentensor"
+ },
+ "felix-vaults": {
+  "description": "Deposit assets to be lent via Morpho Vaults to earn interest.",
+  "social": "felixprotocol"
+ },
+ "apex-omni": {
+  "description": "Engineered for high-performing precision trades in a decentralized ecosystem.",
+  "social": "OfficialApeXdex"
+ },
+ "tulipa-capital": {
+  "description": "Tulipa Capital is dedicated to revolutionizing the crypto markets with transparency, efficiency, and proven resilience. Our advanced strategies and commitment to innovation empower institutional investors to deploy capital at scale.",
+  "social": "tulipacapital"
+ },
+ "zircuit-staking": {
+  "description": "The Zircuit staking is designed to reward participating users and communities that help bootstrap native, day-one liquidity to Zircuit. Zircuit is a modular zk rollup with AI-enabled security at the sequencer level",
+  "social": "ZircuitL2"
+ },
+ "project-x": {
+  "description": "Project X is built on the belief that tech is becoming increasingly commoditized and the next era of DeFi will be won by innovating on distribution, incentive design and UX.",
+  "social": "prjx_hl"
+ },
+ "manifest-trade": {
+  "description": "Manifest is the 3rd generation CLOB DEX on Solana, the spiritual successor to Openbook and Serum.",
+  "social": "ManifestTrade"
+ },
+ "bouncebit-prime": {
+  "description": "Build structured positions in Franklin's Benji & BlackRock BUIDL. Holdings remain in custody while Prime deploys them as collateral and runs delta-neutral strategies for you across approved venues.",
+  "social": "bounce_bit"
+ },
+ "starknet-btc-staking": {
+  "description": "Bitcoin Staking on Starknet.",
+  "social": "Starknet"
+ },
+ "monolith-market": {
+  "description": "Monolith is a permissionless protocol for creating crypto-backed stablecoins built to last: choose the collateral, oracle, and parameters, then deploy your own crypto-backed stablecoin",
+  "social": "MonolithMarket"
+ },
+ "vishwa": {
+  "description": "Vishwa is agent-native banking infrastructure for autonomous capital, built around a pre-execution control layer that verifies and enforces solvency, authorization, policy, and execution constraints before capital moves across chains and execution venues.",
+  "social": "Vishwa_lab"
+ },
+ "3f": {
+  "description": "3F is a vault protocol built on Morpho that gives you leveraged exposure to tokenized RWAs.",
+  "social": "3f_xyz"
+ },
+ "curvance": {
+  "description": "Curvance is Monad's hyper-efficient lending layer, helping users earn more yield and access simple, one-click leverage.",
+  "social": "Curvance"
+ },
+ "ring-few": {
+  "description": "Wrapper protocol within Ring Protocol",
+  "social": "ProtocolRing"
+ },
+ "re7-labs": {
+  "description": "Investors and operators across decentralised ecosystems of digital assets",
+  "social": "Re7Labs"
+ },
+ "plasma-one": {
+  "description": "Plasma One is a next-generation card product built on the Plasma Chain, an EVM-compatible L1 optimised for stablecoin payments and everyday spending. It combines a yield-bearing Earn product (P1USD) with gasless Checkings accounts, giving users a seamless on-chain banking experience",
+  "social": "Plasma"
+ },
+ "plasma-saving-vaults": {
+  "description": "Plasma Vaults are on-chain investment vaults that generate yield by deploying user deposits across leading DeFi protocols through Veda's infrastructure",
+  "social": "Plasma"
+ },
+ "firelight": {
+  "description": "Firelight is an onchain DeFi cover protocol on Flare. Staked FXRP backs coverage against defined protocol failures, with incidents validated by an independent Risk Consortium and staked capital subject to slashing to fund payouts.",
+  "social": "Firelightfi"
+ },
+ "xrpl-dex": {
+  "description": "AMM pools for the XRP Ledger Blockchain",
+  "social": "RippleXDev"
+ },
+ "mezo-earn": {
+  "description": "Mezo Earn is the economic engine powering the Mezo network. It enables bitcoin holders to earn yield on their BTC while participating in governance decisions that shape how the network allocates resources and rewards",
+  "social": "MezoNetwork"
+ },
+ "chiliz-governance-staking": {
+  "description": "CHZ locked for the governance of Chiliz Chain, Validators and delegators stake their CHZ to take part in the governance of the PoSA chain in order to create and validate new blocks as well as to vote on any changes which require governance consensus.",
+  "social": "Chiliz"
+ },
+ "ultrayield-curator": {
+  "description": "UltraYield, created by leading crypto hedge fund Edge Capital, offers sophisticated yield-generating vaults that make institutional-grade strategies accessible to everyone.",
+  "social": "ultrayieldapp"
+ },
+ "vfat.io": {
+  "description": "vfat.io is a yield aggregator, underpinned by Sickle, a smart contract wallet for yield farming. It reduces complex operations such as entering/exiting positions, compounding, or rebalancing into single transactions, while maintaining self-custody",
+  "social": "vfat_io"
+ },
+ "sygnum-fiusd-liquidity-fund": {
+  "description": "This project focuses on the tokenization of Fidelity International's Money Market Fund by Sygnum Bank, specifically the Fidelity Institutional Liquidity Fund (ILF) USD Fund Class G Acc. Sygnum Bank is the token issuer of the above mentioned.",
+  "social": "sygnumofficial"
+ },
+ "estate-protocol": {
+  "description": "Estate protocol offers investors access to fractional ownership of real estate in the most sought-after markets in the world with secure, globally recognized asset protection. Estate Protocol enables cross-border investments with minimal barriers, allowing anyone to invest in high-quality real estate with as little as $50.",
+  "social": "EstateProtocol"
+ },
+ "mantle-restaking": {
+  "description": "Liquid Restaking on Ethereum",
+  "social": "mETHProtocol"
+ },
+ "d2-finance": {
+  "description": "Tokenized Derivatives Strategies, dynamically managing risk and reward efficiently. Offering a robust suite of institutional-grade managed strategies within innovative, non-custodial single-click vault architecture.",
+  "social": "D2_Finance"
+ },
+ "zoo-finance": {
+  "description": "Structured Asset Protocol for Better Liquidity Utilization.",
+  "social": "ZooFinanceIO"
+ },
+ "tydro": {
+  "description": "Tydro is a non-custodial lending protocol for onchain capital markets. Powered by Aave and built on Ink",
+  "social": "tydrohq"
+ },
+ "morph-bridge": {
+  "description": "Bridge between Ethereum and Morph L2",
+  "social": "Morphl2"
+ },
+ "lulo": {
+  "description": "Lulo is a decentralized lending aggregator, which automatically optimizes users deposits by migrating their deposits to the lending pool with the best yield, while allowing for personalized risk settings",
+  "social": "uselulo"
+ },
+ "gamma-research": {
+  "description": "Gamma Research provides institutional risk management and strategy curation for on-chain vaults.",
+  "social": "Gamma_Research_"
+ },
+ "neutral-trade": {
+  "description": "Neutral Trade is the on-chain multi-strategy hedge fund, built by experienced quants and traders from Goldman Sachs and Top Global Hedge Funds",
+  "social": "TradeNeutral"
+ },
+ "decibel": {
+  "description": "Decibel is a composable, onchain trading engine for spot, perps, and yield opportunities.",
+  "social": "DecibelTrade"
+ },
+ "3jane-lending": {
+  "description": "3Jane protocol is a peer-to-pool credit-based money market enabling algorithmic, real-time uncollateralized USDC credit lines for yield farmers, traders, businesses, and/or AI agents",
+  "social": "3janexyz"
+ },
+ "bitlayer-ybtc-family": {
+  "description": "Bridge between Bitcoin and Bitlayer chain",
+  "social": "BitlayerLabs"
+ },
+ "echo-bridge": {
+  "description": "Bridge BTC assets, restaking, earn interest & borrow on Move",
+  "social": "EchoProtocol_"
+ },
+ "chain-fusion": {
+  "description": "Chain Fusion allows the Internet Computer Protocol (ICP) to interconnect with multiple blockchains in a decentralized manner, eliminating the need for a single trusted intermediary such as a bridge. The ability of ICP smart contracts to utilise threshold signature schemes to sign and submit transactions directly to other chains enables Chain-key tokens. Each Chain-key token on ICP is backed 1:1 by",
+  "social": "dfinity"
+ },
+ "agni-finance": {
+  "description": "Agni Finance is a high-capital efficiency, AMM-based DEX and launchpad built to support the Mantle Network ecosystem.",
+  "social": "Agnidex"
+ },
+ "binaryx-platform": {
+  "description": "Binaryx Platform is an infrastructure layer for RWA tokenization that opens up new real estate trading & investing opportunities for everyone with an internationally compliant legal framework.",
+  "social": "BinaryxPlatform"
+ },
+ "circle-bitcoin": {
+  "description": "Circle Wrapped Bitcoin (cirBTC) unlocks utility for institutional markets. Backed 1:1 by BTC that is readily verifiable onchain, cirBTC is live on Ethereum and integrates seamlessly into Circle’s established infrastructure and the wider DeFi ecosystem.",
+  "social": "circle"
+ },
+ "hylo-protocol": {
+  "description": "Hylo splits yield-bearing assets into two complementary products: hyUSD - a stable USD-denominated asset with access to sustainable yield, and xSOL - leveraged SOL exposure with zero liquidation risk and no funding costs. Users can deposit LSTs to mint either asset",
+  "social": "hylo_so"
+ },
+ "rif-on-chain": {
+  "description": "RIF On Chain offers a censorship-resistant stablecoin protocol on Rootstock, enabling users to mint USDRIF, a fully crypto-collateralized stablecoin, and RIF PRO, a leveraged token for RIF holders and traders",
+  "social": "rocprotocol"
+ },
+ "xion-finance": {
+  "description": "The First Walletless Blockchain Built For Main­stream Adoption. XION empowers developers to build, launch and scale consumer-ready products from the ground up, removing technical barriers for all users through its Chain Abstraction.",
+  "social": "burnt_xion"
+ },
+ "y10k-capital": {
+  "description": "Actively managed onchain vehicle by Yield Network and RockawayX team focused on private onchain liquidity deals.",
+  "social": "y10kcapital"
+ },
+ "growihf": {
+  "description": "Growi is a quantitative asset management protocol that leverages mathematical modeling to fine-tune trading strategies and maximize yield. Our approach ensures efficient capital allocation, advanced risk management, and consistent returns for investors",
+  "social": "GrowiFinance"
+ },
+ "flux-finance": {
+  "description": "Flux Finance is a decentralized lending platform supporting permissioned assets",
+  "social": "FluxDeFi"
+ },
+ "waterline": {
+  "description": "Waterline is a risk curator on Morpho, building onchain vault solutions based on client specifications."
+ },
+ "predict-fun": {
+  "description": "Predict is a BNB-based prediction market, enabling users to trade real-world outcomes in categories spanning sports, crypto, global affairs and more. It eliminates the problem of \"idle capital\" by offering DeFi-powered yields on open positions",
+  "social": "predictdotfun"
+ },
+ "paimon": {
+  "description": "Paimon is a BSC-based RWA and DeFi protocol focused on bringing institutional-grade real-world financial assets on-chain through tokenization and decentralized infrastructure bridging TradFi and DeFi.",
+  "social": "Paimon_Finance"
+ },
+ "communityv3": {
+  "description": "An unmodified Uniswap V3 deployment on Ethereum with the factory owner burned, so the protocol fee can never be turned on — LPs keep 100% of swap fees. Offers 25 fee tiers from 0.01% to 5%."
+ },
+ "gmx-solana": {
+  "description": "GMTrade is a perpetual DEX built on Solana that supports both crypto and RWA markets. The protocol utilizes isolated liquidity pools combined with a cross-pool coordination system that optimizes liquidity utilization. It aims to provide a seamless trading experience with fast execution and low fees while maintaining security and decentralization.",
+  "social": "gmtrade_xyz"
+ },
+ "hakutora": {
+  "description": "Hakutora focuses on uncovering on-chain opportunities and managing risk, providing top-tier asset management and risk control solutions.",
+  "social": "0xhakutora"
+ },
+ "mellow-restaking": {
+  "description": "Mellow Protocol is a permissionless system for active liquidity management and building trustless automatic DeFi strategies",
+  "social": "mellowprotocol"
+ },
+ "steer-protocol": {
+  "description": "Steer is a decentralized compute protocol that provides a scaling solution for data processing through its robust off-chain infrastructure. Services are targeted at leveraging off-chain data for on-chain automation, such as automated liquidity management in DeFi.",
+  "social": "steerprotocol"
+ },
+ "tempo-stablecoin-dex": {
+  "description": "Tempo Stablecoin Dex is a decentralized exchange for stablecoins on Tempo.",
+  "social": "tempo"
+ },
+ "phoenix-perp": {
+  "description": "Phoenix Perp is a decentralized perpetual futures market on Solana that is fully on-chain, non-custodial, and crankless.",
+  "social": "PhoenixTrade"
+ },
+ "strata-markets": {
+  "description": "Strata is a generalized risk-tranching protocol designed to offer structured yields via tokenized senior and junior tranches across diverse on-chain and off-chain yield strategies.",
+  "social": "strata_markets"
+ },
+ "hyperbeat-earn": {
+  "description": "Automated vaults that optimize your returns from top DeFi protocols with just one click",
+  "social": "0xhyperbeat"
+ },
+ "katana-pre-launch": {
+  "description": "Katana Pre-Launch lets users deposit eligible tokens into Yearn vaults to earn randomized reward NFTs called Krates, while securing a pro-rata share of 70M KAT, with deposits remaining user-owned and withdrawable after mainnet",
+  "social": "katana"
+ },
+ "bucket-cdp": {
+  "description": "Bucket Protocol is the leading Collateralized Debt Position (CDP) protocol within the Sui ecosystem, supporting multiple assets for collateralization while extending stablecoin loans in $BUCK at a fixed low-cost. Its real-time liquidation mechanism ensures both security and capital efficiency, and the inbuilt flash loan services facilitate the price stability of the stablecoin BUCK.",
+  "social": "bucket_protocol"
+ },
+ "origami-finance": {
+  "description": "Origami is a first-in-class automated leverage protocol launching on Ethereum and 🐻",
+  "social": "origami_fi"
+ },
+ "fstswap": {
+  "description": "FstSwap is an automated market maker (AMM) that allows the exchange of two tokens on Binance Smart Chain. It's fast, cheap, and allows anyone to participate.",
+  "social": "FstSwapbright"
+ },
+ "tzbtc": {
+  "description": "tzBTC is a wrapped Bitcoin token on Tezos, backed 1:1 by BTC and issued through a multi-signature keyholder system that enables auditable minting and burning.",
+  "social": "tzBTC_io"
+ },
+ "goose": {
+  "description": "The First Real Super Hybrid Yield Across All Blockchains",
+  "social": "GoldenGoose_app"
+ },
+ "rocksolid-network": {
+  "description": "RockSolid is a single-click integrated DeFi Vault platform that makes it simple for users to access the best DeFi rewards.",
+  "social": "rocksolidhq"
+ },
+ "defindex": {
+  "description": "Unlock stablecoin yield in your wallet or DeFi app",
+  "social": "defindex_"
+ },
+ "catfee-staking-vault": {
+  "description": "CatFee Staking Vault aims to bring staking and on-chain earnings to small TRX holders by eliminating all traditional barriers: no minimum TRX, no wallet approvals, no lockups, and no platform custody. Users can stake directly to a vault and receive rewards — with just 1 TRX.",
+  "social": "CatFeeio"
+ },
+ "felix-cdp": {
+  "description": "Felix is a synthetic dollar protocol on Hyperliquid L1",
+  "social": "felixprotocol"
+ },
+ "avant-aveth": {
+  "description": "avETH is a stable-value token that can be staked to earn yield with savETH",
+  "social": "avantprotocol"
+ },
+ "risex": {
+  "description": "RISEx is a fully onchain perpetuals exchange built on RISE Chain.",
+  "social": "risextrade"
+ },
+ "nemo-trading": {
+  "description": "Strategy curator operating vaults on upshift.",
+  "social": "NEMOtradingHQ"
+ },
+ "wemix.fi-staking": {
+  "description": "Stake your assets in staking products guaranteed by WEMIX and earn stable profits. Receive various rewards through various programs.",
+  "social": "WemixNetwork"
+ },
+ "bisonfi": {
+  "description": "Prop AMM on Solana."
+ },
+ "adrastea-validator": {
+  "description": "On-chain staking of user deposits with the Adrastea validator",
+  "social": "AdrasteaFinance"
+ },
+ "metalx-swap": {
+  "description": "Instant on-chain token swaps on XPR Network with 0 gas fee.",
+  "social": "MetalXApp"
+ },
+ "9summits": {
+  "description": "By curating top-performing vaults, we empower our clients to access the best opportunities in decentralized finance with confidence and precision.",
+  "social": "nine_summits"
+ },
+ "perena-vaults": {
+  "description": "Perena is a stablebank offering USD STAR (USD*), a digital dollar that automatically accrues value from real yield sources, including delta-neutral strategies, secured lending, and stablecoins.",
+  "social": "perena"
+ },
+ "stellar-dex": {
+  "description": "The Stellar network acts as a decentralized distributed exchange that allows users to trade and convert assets with the network's Offer operations",
+  "social": "StellarOrg"
+ },
+ "citrea-bridge": {
+  "description": "Citrea Bridge is a bridge that allows users to bridge tokens to and from Citrea.",
+  "social": "citrea_xyz"
+ },
+ "t3tris-finance": {
+  "description": "T3tris is a zero-fee, permissionless vault infrastructure.",
+  "social": "0xT3tris"
+ },
+ "agua": {
+  "description": "Agua is a vault infrastructure provider for trusted yield. Vaults combine real-world asset and DeFi strategies into permissionless products that allocators and institutional partners can deposit, lend to, and borrow against",
+  "social": "aguavaults"
+ },
+ "syntropia": {
+  "description": "Capture the best risk adjusted yield on stablecoins across DeFi protocols while maintaining full transparency.",
+  "social": "syntropia_ai"
+ },
+ "exponent-risk-tranching": {
+  "description": "Exponent lets participants choose the level of risk they want to take when allocating to yield assets, whether they want access to yield in a protected form or are willing to take on more risk for higher expected returns",
+  "social": "ExponentFinance"
+ },
+ "ultrayield-vaults": {
+  "description": "Vault Curator & Infrastructure Provider",
+  "social": "ultrayieldapp"
+ },
+ "superearn": {
+  "description": "SuperEarn is a decentralized yield-earning DeFi protocol that allows users to deposit supported crypto assets and earn returns by allocating those assets into on-chain earning strategies.",
+  "social": "SuperEarnX"
+ },
+ "reya-perps": {
+  "description": "The only DEX where speed never compromises security. Uniquely built as a based-rollup powered by zk-proofs, Reya DEX delivers 1 millisecond speed, 0 trading fess and 100% Ethereum uptime and security",
+  "social": "reya_xyz"
+ },
+ "exponent-strategy-vaults": {
+  "description": "Strategy Vaults are managed yield strategies built on top of Exponent's interest rate markets and/or combined with leading protocols on Solana",
+  "social": "ExponentFinance"
+ },
+ "qearn": {
+  "description": "Qearn is a smart contract-based platform that allows users to lock funds for rewards while offering flexible unlocking options with associated penalties for early unlocking. It's designed to incentivize long-term participation while maintaining liquidity for users",
+  "social": "_Qubic_"
+ },
+ "current": {
+  "description": "Current is the capital efficiency layer for all future assets on Sui. One click multiply yield, isolated lending market, your capital has never worked this hard before.",
+  "social": "CurrentSUI"
+ },
+ "katana-dex": {
+  "description": "Katana a DEX For Ronin",
+  "social": "AxieInfinity"
+ },
+ "yieldfi": {
+  "description": "YieldFi: The First Streamlined Asset Management Platform",
+  "social": "getyieldfi"
+ },
+ "project-0": {
+  "description": "Project 0 is a DeFi-native prime brokerage that lets users borrow against their entire DeFi portfolio across multiple venues.",
+  "social": "project0"
+ },
+ "syncswap": {
+  "description": "SyncSwap is a decentralized exchange (DEX) on zkSync Era",
+  "social": "syncswap"
+ },
+ "marginfi-lending": {
+  "description": "Connecting liquidity across DeFi.",
+  "social": "marginfi"
+ },
+ "kava-mint": {
+  "description": "Kava.io is the first cross-chain DeFi hub providing applications and services to the worlds largest cryptocurrencies.",
+  "social": "KAVA_CHAIN"
+ },
+ "bima-cdp": {
+  "description": "Bitcoin-backed Stablecoin for Universal Yield.",
+  "social": "BimaBTC"
+ },
+ "flowdesk": {
+  "description": "Flowdesk is a full-service digital asset trading and technology firm that also curates a vault on Morpho.",
+  "social": "flowdesk_co"
+ },
+ "syntetika": {
+  "description": "A tokenization hub for regulated investment strategies. Each strategy runs in a licensed, third-party-verified fund and is accessed onchain through a single token",
+  "social": "Syntetika"
+ },
+ "defa-by-invoicemate": {
+  "description": "DeFa by InvoiceMate is a full-stack RWAFi protocol that transforms verified trade receivables into liquid, yield-bearing assets and connects liquidity providers with stable & secured yield backed by real-world economic activity.",
+  "social": "defaprimitive"
+ },
+ "mystic-finance-lending": {
+  "description": "The RWAfi money market: lend, borrow and leverage your assets on Plume Network's native money market",
+  "social": "mystic_finance"
+ },
+ "snuggle": {
+  "description": "Snuggle is an automated concentrated Liquidity Manager for Uniswap V3 on Base. It automatically rebalances LP positions to maximize fee earnings while minimizing impermanent loss",
+  "social": "SnuggleFi"
+ },
+ "byreal": {
+  "description": "Byreal is the ultimate liquidity layer built for real assets, delivering unmatched liquidity for users. It integrates DEX, Launch, and Vault into a unified smart routing architecture, forming a full-cycle growth engine that supports asset discovery, trading, and yield generation on Solana",
+  "social": "byreal_io"
+ },
+ "fira": {
+  "description": "Fixed-rate lending and borrowing, onchain. Lock rates. Sell yield. Exit anytime.",
+  "social": "Fira_Lend"
+ },
+ "tau-labs": {
+  "description": "TAU Labs curates strategies and manages risk across DeFi protocols and assets. Our proprietary automations and quantitative approach optimize yield across a wide variety of structured products.",
+  "social": "628Labs"
+ },
+ "antarctic": {
+  "description": "Antarctic Exchange (AX) is a high-performance decentralized perpetual futures DEX delivering CEX-grade trading with deep liquidity, low fees, and a clean, self-custodial UX.",
+  "social": "Antarctic_EX"
+ },
+ "fluxion-network": {
+  "description": "A RWA-optimized Native DEX on Mantle. AMM v2/v3 and order book hybrid, 24/7 full cycle RWA trading experience with low slippage.",
+  "social": "Fluxion_dex"
+ },
+ "tessera-v": {
+  "description": "Prop AMM on Solana"
+ },
+ "templar-lending": {
+  "description": "Templar is the first Cypher Lending protocol that enables borrowing stablecoins against Bitcoin, or any asset on any chain, without trusting centralized intermediaries. No wrapping, no bridging, no KYC necessary",
+  "social": "TemplarProtocol"
+ },
+ "mev-capital": {
+  "description": "MEV Capital is an Investment & risk management firm focused on open-ended strategies across Decentralized Finance on EVM chains since 2020.",
+  "social": "MEVCapital"
+ },
+ "set-protocol": {
+  "description": "A protocol for building portfolios as digital assets (ERC-20) that represent a fully collateralized digital asset (ERC-20) that represents a fully collateralized portfolio of other assets including Bitcoin (WBTC), Ethereum (WETH), and fiat-pegged coins (DAI).portfolio of other assets including Bitcoin (WBTC), Ethereum (WETH), and fiat-pegged coins (DAI).",
+  "social": "SetProtocol"
+ },
+ "bulk": {
+  "description": "BULK is a Solana perpetuals DEX built for ultra-low-latency derivatives trading with sub-20ms matching and high-throughput execution",
+  "social": "bulktrade"
+ },
+ "strato-cdp": {
+  "description": "EVM-compatible L1 blockchain with DeFi suite including CDP stablecoin (USDST), lending, AMM pools, tokenized precious metals, and cross-chain bridging. Built by BlockApps.",
+  "social": "strato_net"
+ },
+ "icarus-cl": {
+  "description": "Icarus Finance is Rise's central liquidity hub, combining a powerful liquidity incentive engine, vote-lock governance model, and friendly user experience.",
+  "social": "Icarus_Fi"
+ },
+ "bitget-sol": {
+  "description": "Earn daily profits without risking your principal! Your returns are based on on-chain staking, and if the on-chain ROI changes, the APR will adjust accordingly.",
+  "social": "bitget"
+ },
+ "block-analitica": {
+  "description": "The risk team behind the DAI (USDS) stablecoin",
+  "social": "BlockAnalitica"
+ },
+ "stellar-amm": {
+  "description": "Stellar AMM provides a simple way to provide liquidity and exchange assets",
+  "social": "StellarOrg"
+ },
+ "native-credit-pool": {
+  "description": "Native Credit Pool is a unified, single-sided asset supply pool that enables market makers to borrow assets for trading, thereby enhancing liquidity in the on-chain spot market.",
+  "social": "native_fi"
+ },
+ "sharpbyte-capital": {
+  "description": "SharpByte Capital is a crypto-native yield fund that curates on-chain yield strategies, including the SharpByte USDT Prime vault on Morpho.",
+  "social": "sharpbytexyz"
+ },
+ "valantis-sthype-restaking": {
+  "description": "Restaking vault for stHYPE that allows users to earn additional rewards while maintaining exposure to staked HYPE.",
+  "social": "ValantisLabs"
+ },
+ "pangolins": {
+  "description": "Pangolins is a non-custodial onchain risk curator that selects lending markets, sets liquidity constraints, and manages risk boundaries for vault depositors.",
+  "social": "PangolinsVault"
+ },
+ "subfrost": {
+  "description": "SUBFROST is a decentralized signing network that issues frBTC and frUSD, trust-minimized assets which power the ultimate UX on Bitcoin L1. SUBFROST's portfolio of apps deliver this UX directly to end-users, and its API products enable developers to build the next generation of advanced crypto applications.",
+  "social": "subfrostp2p"
+ },
+ "anthias-labs": {
+  "description": "Anthias Labs is a boutique on-chain advisory firm focused on DeFi risk management and system design",
+  "social": "anthiasxyz"
+ },
+ "stakee": {
+  "description": "Earn TON with best APY at most profitable staking service."
+ },
+ "nodedao": {
+  "description": "Experience the ease of staking on Ethereum 2.0 through NodeDAO's liquid staking service.",
+  "social": "Node_DAO"
+ },
+ "crypto.com-liquid-staking": {
+  "description": "Liquid staking is available for ETH and Solana! Earn rewards and receive tradeable CDCETH and CDCSOL",
+  "social": "cryptocom"
+ },
+ "abstract": {
+  "description": "Abstract is a Layer 2 on Ethereum using zero-knowledge (ZK) rollups to scale by batching off-chain transactions and verifying them on-chain with ZK proofs, while remaining EVM-compatible for easy smart contract deployment",
+  "social": "AbstractChain"
+ },
+ "hubra-staked-sol": {
+  "description": "SOL liquid staking on Hubra",
+  "social": "SolanaHubApp"
+ },
+ "vena-finance": {
+  "description": "Vena is the credit layer where reputation directly affects the value of capital. Vena is launching as the native money market of Fluent",
+  "social": "venafinance"
+ },
+ "japan-staked-sol": {
+  "description": "japanSOL is a Solana liquid staking token issued jointly by Allied Architects, Dawn Labs and DeFi Development Corp., built on Sanctum and tradable on Jupiter"
+ },
+ "definity-staked-sol": {
+  "description": "Stake SOL on Definity, receive definSOL tokens.",
+  "social": "RealDefinity"
+ },
+ "stkesol-by-sol-strategies": {
+  "description": "Liquid staked SOL backed by SOL Strategies' (Nasdaq:STKE|CSE:HODL) compliant infrastructure.",
+  "social": "solstrategies"
+ },
+ "hylo-lsts": {
+  "description": "Liquid staking on Solana",
+  "social": "hylo_so"
+ },
+ "bend": {
+  "description": "Bend is a decentralized lending protocol forked from Morpho, designed to enable efficient lending and borrowing with native Proof-of-Liquidity (PoL) on Berachain. As a lending primitive layer, Bend allows the creation of immutable and efficient lending markets in a permissionless way",
+  "social": "berachain"
+ },
+ "vesu": {
+  "description": "The Future of Lending on Starknet - Vesu is a modular and permissionless lending protocol allowing anyone to earn, borrow and create markets.",
+  "social": "vesuxyz"
+ },
+ "exinpool": {
+  "description": "ExinPool is a staking platform of Exin in Mixin Network"
+ },
+ "raiku-staked-sol": {
+  "description": "Raiku Staked SOL (rkuSOL) is the liquid staking token of Raiku, a Solana blockspace-auction network; stakers earn staking rewards + MEV + blockspace auction revenue.",
+  "social": "Raikucom"
+ },
+ "hyperbeat-lst": {
+  "description": "beHYPE is Hyperbeat's liquid staking token for HYPE, built in collaboration with Etherfi",
+  "social": "0xhyperbeat"
+ },
+ "anemoy-capital": {
+  "description": "Anemoy is a web3 native asset manager powered by Centrifuge, providing investors with exposure to a broad spectrum of superior assets",
+  "social": "anemoycapital"
+ },
+ "sceptre-liquid": {
+  "description": "Sceptre is an innovative multi network Liquid Staking solution build by Rome Blockchain Labs, with extensive knowledge and experience in Liquid Staking.",
+  "social": "SceptreLS"
+ },
+ "endur": {
+  "description": "xSTRK - Liquid Staked STRK",
+  "social": "endurfi"
+ }
+}
